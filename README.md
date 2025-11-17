@@ -1,8 +1,9 @@
 
 
+colocar isso no banco de dados da faculdade: 
 
-usuario: root
-senha: PAMSQLa8741!@
+usuario: admin
+senha: 1234
 
 banco de dados no dia: criar uma tabela nova
 clicar no icone de pasta azul do msql

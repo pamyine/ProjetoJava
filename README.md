@@ -1,4 +1,12 @@
 
+NO DIA DA APRESENTAÇÃO ABAIXAR DOS AS CHAVES ASSIM:
+{
+
+}
+
+
+
+
 NO DIA DA APRESENTAÇÃO:
 banco de dados no dia: criar uma tabela nova
 clicar no icone de pasta azul do msql
